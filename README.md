@@ -13,3 +13,10 @@ The hypothesis was that this might set clearer expectations for students upfront
 
 The unit of diversion is a cookie, although if the student enrolls in the free trial, they are tracked by user-id from that point forward. The same user-id cannot enroll in the free trial twice. For users that do not enroll, their user-id is not tracked in the experiment, even if they were signed in when they visited the course overview page.
 
+
+## Brief Summary¶
+Objectives: Reduce the number of students who were disappointed and had not paid because they could not study enough time should be reduced. At the same time, maintain the number of payments
+
+Method: add a pop-up message box to ask how much time they will spend
+
+Question: Whether this method make a significant difference
